@@ -23,7 +23,7 @@ path.fig  <- paste0(path, "figures/")
 path.out  <- paste0(path, "tables/")
 
 # Auxiliary functions
-source(paste0(path.code, "funs.R"))
+source(paste0(path.code, "CP_2025_IZAWOL_funs.R"))
 
 ################################################################################
 ## Prepare Head Start Data
